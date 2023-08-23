@@ -1,4 +1,4 @@
-#! usr/bin/env python3
+#!/usr/bin/env python3
 """ Convert adjacency matrix to an adjacency list representation
 
     Parameters:

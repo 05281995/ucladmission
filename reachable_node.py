@@ -1,4 +1,4 @@
-#! usr/bin/env python3
+#!/usr/bin/env python3
 
 def reachable(adj_list, start_node):
     """ Compute the nodes reachable from a start node
