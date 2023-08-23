@@ -21,7 +21,7 @@ def mat_to_list (adj_mat):
             if elem == 1:
                 adj_list[num_row].append(num_elem)
 
-    return(adj_list)
+    return adj_list
 
 
 if __name__ == '__main__':
